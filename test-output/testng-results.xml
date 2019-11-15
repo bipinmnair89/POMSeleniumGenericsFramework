@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86162" started-at="2019-10-17T12:00:09Z" finished-at="2019-10-17T12:01:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86162" started-at="2019-10-17T12:00:09Z" finished-at="2019-10-17T12:01:35Z">
+      <class name="com.test.hubspot.tests.ContactsPageTest">
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="initialSetup" is-config="true" duration-ms="10495" started-at="2019-10-17T12:00:09Z" finished-at="2019-10-17T12:00:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="validateContactsPageHeaderTest()[pri:2, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="validateContactsPageHeaderTest" duration-ms="15075" started-at="2019-10-17T12:00:20Z" finished-at="2019-10-17T12:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactsPageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="196" started-at="2019-10-17T12:00:35Z" finished-at="2019-10-17T12:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="initialSetup" is-config="true" duration-ms="9660" started-at="2019-10-17T12:00:35Z" finished-at="2019-10-17T12:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="validateContactsPageTitleTest()[pri:2, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="validateContactsPageTitleTest" duration-ms="14254" started-at="2019-10-17T12:00:44Z" finished-at="2019-10-17T12:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactsPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="189" started-at="2019-10-17T12:00:59Z" finished-at="2019-10-17T12:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="initialSetup" is-config="true" duration-ms="9745" started-at="2019-10-17T12:00:59Z" finished-at="2019-10-17T12:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="validateCreateContactBtnTest()[pri:2, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="validateCreateContactBtnTest" duration-ms="26446" started-at="2019-10-17T12:01:09Z" finished-at="2019-10-17T12:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateContactBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.hubspot.tests.ContactsPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="80" started-at="2019-10-17T12:01:35Z" finished-at="2019-10-17T12:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.hubspot.tests.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
